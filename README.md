@@ -1,1 +1,5 @@
 # Compte-rendu1
+
+ Ce matin, nous avons tenu une réunion avec Clément pour faire le point sur le projet ESP, un jeu vidéo d'horreur en cours de développement cette semaine. L'échange s'est principalement concentré sur les éléments à intégrer au jeu : l'ambiance, le style graphique, les idées de gameplay, ainsi que la manière d'organiser notre travail pour garantir une progression structurée du projet. Cette discussion nous a permis de mieux encadrer nos tâches et de définir les priorités pour les jours à venir.
+
+Dans l'après-midi, j'ai travaillé sur le frontend de l'application Time Manager, développée avec Vue.js. J'ai apporté des améliorations à plusieurs sections de l'interface afin de mieux organiser les pages et d'optimiser le comportement de certains composants. L'objectif était d'obtenir un affichage plus fluide tout en préparant les bases pour les futures fonctionnalités. Cette étape m'a également aidé à approfondir ma compréhension de la structure globale du projet et à progresser petit à petit sur l'aspect visuel.
