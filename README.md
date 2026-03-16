@@ -1,5 +1,25 @@
-# Compte-rendu1
+# Journal de travail
 
- Ce matin, nous avons tenu une réunion avec Clément pour faire le point sur le projet ESP, un jeu vidéo d'horreur en cours de développement cette semaine. L'échange s'est principalement concentré sur les éléments à intégrer au jeu : l'ambiance, le style graphique, les idées de gameplay, ainsi que la manière d'organiser notre travail pour garantir une progression structurée du projet. Cette discussion nous a permis de mieux encadrer nos tâches et de définir les priorités pour les jours à venir.
+## Date
+Aujourd’hui
 
-Dans l'après-midi, j'ai travaillé sur le frontend de l'application Time Manager, développée avec Vue.js. J'ai apporté des améliorations à plusieurs sections de l'interface afin de mieux organiser les pages et d'optimiser le comportement de certains composants. L'objectif était d'obtenir un affichage plus fluide tout en préparant les bases pour les futures fonctionnalités. Cette étape m'a également aidé à approfondir ma compréhension de la structure globale du projet et à progresser petit à petit sur l'aspect visuel.
+---
+
+## Points réalisés
+
+### Matinée
+La matinée a été consacrée à un rendez-vous avec **Epitech** dans le cadre du suivi pédagogique.  
+Cet échange ne concernait pas directement les projets en cours, mais faisait partie du suivi général de la formation.
+
+### Après-midi
+L’après-midi, j’ai repris le travail autour du projet **T-DEV-810 – Zoidberg 2.0**.
+
+J’ai continué à me documenter sur les bases de **l’intelligence artificielle** et du **machine learning**, afin de mieux comprendre les concepts nécessaires pour la suite du projet.  
+J’ai également revu une partie du **bootstrap du projet** afin de me remettre dedans et de mieux comprendre la structure et les premières étapes demandées.
+
+Cela m’a permis de continuer à approfondir certaines notions et de mieux me préparer pour les prochaines étapes, qui seront davantage orientées vers la mise en pratique.
+
+---
+
+## Bilan de la journée
+Cette journée m’a permis de poursuivre ma phase d’apprentissage autour de l’IA, tout en reprenant le bootstrap du projet pour me replonger dans sa structure et mieux préparer la suite du projet **Zoidberg 2.0**.
